@@ -16,6 +16,7 @@ gem 'spring'
 gem 'rails_layout'
 gem 'foundation-rails'
 gem 'simple_form'
+gem 'high_voltage'
 
 # learn-rails
 gem 'foundation-rails'
