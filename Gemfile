@@ -14,6 +14,8 @@ gem 'byebug'
 gem 'web-console', '~> 2.0'
 gem 'spring'
 gem 'rails_layout'
+gem 'foundation-rails'
+gem 'simple_form'
 
 # learn-rails
 gem 'foundation-rails'
